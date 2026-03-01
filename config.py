@@ -1,0 +1,1 @@
+FILE_PATH = r"D:\PRJKT\py\Customer-Churn-Prediction\data\raw\WA_Fn-UseC_-Telco-Customer-Churn.csv"
